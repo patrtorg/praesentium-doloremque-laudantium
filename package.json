@@ -1,13 +1,13 @@
 {
   "name": "@patrtorg/praesentium-doloremque-laudantium",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {},
   "author": "PatrDen",
   "license": "MIT",
   "dependencies": {
-    "@dramaorg/esse-praesentium-eligendi": "^1.2.4",
+    "@dramaorg/esse-praesentium-eligendi": "^1.2.5",
     "@juigorg/sit-nam-neque": "^1.0.6",
     "@kollorg/dicta-itaque-nemo": "^1.0.6",
     "@patrtorg/a-ad-expedita": "^1.0.2",
